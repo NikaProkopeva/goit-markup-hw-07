@@ -276,7 +276,7 @@ img {
 }
 
 .advantages .title-item,
-.member .title-item {
+.member-list__item .title-item {
   margin-bottom: 10px;
 }
 
@@ -372,8 +372,8 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 32px;
-  margin-right: 32px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 16px;
 }
 
